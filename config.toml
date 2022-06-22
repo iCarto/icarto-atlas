@@ -2,3 +2,4 @@ baseURL = "https://icarto.gitlab.io/icarto-atlas"
 languageCode = "es-es"
 title = "El Atlas de iCarto"
 theme = "kraiklyn"
+relativeURLs = true
