@@ -77,3 +77,5 @@ Para el resto de material que publicamos, utilizamos las licencias [Creative Com
 
 - **BY**: Que obliga a hacer mención siempre al autor original.
 - **SA**: Que obliga a que los trabajos derivados se distribuyan bajo la misma licencia.
+
+---

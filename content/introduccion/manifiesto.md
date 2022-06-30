@@ -14,3 +14,5 @@ A veces la mejor manera de definir lo que eres es justo diciendo lo que no eres.
 - **iCarto no es una cooperativa**. Históricamente el porcentaje de personas trabajadoras-socias de la empresa ha sido siempre en torno al 50%. No hay reglas estrictas ni “obligatoriedad” en nuestros estatutos internos de que una trabajadora se convierta en algún momento en socia de la empresa. Pero encontramos valor ético, social y organizativo en ello. Creemos que contribuye a aumentar la resiliencia de la empresa. Y es una realidad histórica en iCarto.
 - **Entendemos la tecnología bajo la óptica del desarrollo humano**. Por ello implementamos soluciones apropiadas a los contextos, sostenibles en el tiempo y adaptadas a las necesidades, capacidades y presupuestos.
 - **Nuestra actividad es posible gracias al trabajo de otros muchos**. Especialmente de los proyectos de Software Libre y de difusión del Conocimiento Abierto. Por ello participamos económicamente o con contribuciones a estas comunidades.
+
+---

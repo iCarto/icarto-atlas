@@ -135,3 +135,5 @@ Existen muchos estudios que intentan determinar cuando es la mejor hora para pub
 En iCarto no hemos hecho un análisis de a que tipo de gente queremos llegar a través de las redes sociales, por tanto aplicamos criterios genéricos. En Twitter suele ser buena idea publicar en días de semana y hacia las primeras horas del día, ya que esta red social es muy utilizada como referencia para enterarse de noticias así que mucha gente echa un vistazo al comenzar el día. Linkedin por ejemplo es una red orientada a las relaciones laborales, por lo que normalmente publicar cosas en horario comercial suele ser buena idea, y no hacerlo nunca en fines de semana.
 
 Un tema importante es definir cual es la primera hora del día según el uso horario. Puede que publiquemos desde un horario europeo pero que nuestro _target_ esté en otro uso horario diferente, por lo que tendremos que acomodar la publicación a la primera hora del día según ese uso horario y programar la publicación para que se lance en ese momento.
+
+---

@@ -13,3 +13,5 @@ A lo largo de nuestra trayectoria iniciada en 2010 siempre hemos tenido una voca
 Hemos nacido y crecido con unos principios sólidos, apostamos por el **software libre** como eje del desarrollo de software basado en la colaboración, en la **horizontalidad** como modelo de funcionamiento de la empresa y en la conciliación entre la vida laboral y personal de las personas que la integran. Hemos liderado y colaborado en numerosos proyectos de cooperación para el desarrollo, relacionados con áreas de interés para gobiernos locales, organizaciones internacionales y ciudadanos.
 
 iCarto somos tecnología, desarrollo y consultoría especializada gracias a un equipo humano multidisciplinar integrado por profesionales del ámbito de la ingeniería civil, expertos en las Tecnologías de Información Geográfica (TIG) y del desarrollo de software. Somos un equipo entusiasta de profesionales cualificados e implicados en garantizar la calidad y competencia de nuestros proyectos. Nuestra metodología se centra en las personas y en un **objetivo** simple: **Que nuestras soluciones se adapten a las necesidades reales de nuestros clientes**.
+
+---

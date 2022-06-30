@@ -235,3 +235,5 @@ Si no vas a estar disponible piensa en las personas que consideres que se verán
 - Voy a estar a medio gas durante algunos días ya que necesito estar al cuidado de un familiar. Avisaré en el chat del proyecto o enviaré un e-mail a los afectados: _"Estos días tengo que estar a medio gas por las mañanas. Si hay algo importante estaré en el móvil, aunque mejor por las tardes."._
 - Comienza el verano y te planteas encajar tu horario principalmente por las mañanas. Como en este caso es muy prolongado quizás es bueno informar a toda la organización. Chat de oficina: _"Aunque estaré puntualmente alguna tarde, durante los próximos dos meses voy a intentar encajar mi horario durante la mañana."_
 - ¿Llevo toda la mañana trabajando en solitario y necesito salir a hacer unos recados? No aviso. ¿Estoy en medio de una tarea involucrada directamente con una compañera y voy a salir?. Al chat personal: _"Perdona. Tengo que salir un momento. En una hora estoy de vuelta."_ ¿A primera hora de la mañana sabes que vas a salir? Podrías ya avisar en la _daily_ indicando que no estarás disponible en ese tramo horario y así reduces el ruido de la comunicación.
+
+---
